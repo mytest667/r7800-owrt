@@ -1,0 +1,6 @@
+OpenWrt 25.12-snapshot r32680-17d625c858 / 2026-02-21 12:17
+---
+openwrt   2026-02-20 17d625c ramips: remove obsolete SPI flash nodes a
+luci      2026-02-21 47bfe42 luci-app-banip: update 1.8.0-3
+packages  2026-02-21 639ccbb inadyn: remove package
+routing   2026-02-19 8cb082c mesh11sd: update to version 6.2.0
